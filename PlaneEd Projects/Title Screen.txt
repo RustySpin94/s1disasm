@@ -1,4 +1,4 @@
-Palette File: ../palette/Title Screen.bin
+Palette File: ../palette/Sega Screen.bin
 Mapping File: ../tilemaps/Title Screen.bin
 Art File: ../artnem/Title Screen Foreground.bin
 Mapping Compression: Enigma
